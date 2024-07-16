@@ -1,3 +1,5 @@
+### WEB DEVELOPMENT | GENERATIVE AI | PYTHON | JAVASCRIPT
+
 ### Hello, World! 🚀
 I'm ```SHASHANK``` Welcome to my GitHub space, where curiosity meets code and madness meets method! I'm a tech adventurer on a quest to explore the uncharted territories of the digital realm. Buckle up and hold onto your bits because things are about to get wild!
 
