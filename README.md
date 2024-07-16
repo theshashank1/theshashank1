@@ -21,8 +21,6 @@ I'm **SHASHANK**! Welcome to my GitHub space, where curiosity meets code and mad
 
 ## Skills
 
-## Skills
-
 - Programming Languages: Fluent in over six million forms of communication... well, maybe not that many, but close! Around 3 to 4, including Python, JavaScript, C, and C++!
 - Technologies & Tools: From the humble command line to the towering heights of the cloud, I'm armed and ready.
 
