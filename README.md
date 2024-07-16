@@ -7,7 +7,7 @@ I'm **SHASHANK**! Welcome to my GitHub space, where curiosity meets code and mad
 - 🔭 Currently exploring the multidimensional world of full-stack development, machine learning, and Generative AI.
 - 🌱 Cultivating a garden of code with seeds of Python, JavaScript, and a sprinkle of C for that extra kick.
 - 😄 Pronouns: Ctrl, Alt, Del.
-<!--  - ⚡ Fun fact: I once debugged a piece of code by reciting the entire script backwards under a full moon. It worked! -->
+<!--  - ⚡ Fun fact: I once debugged a piece of code by reciting the entire script backwards under a full moon. It worked! 
 
 ## Interests
 
@@ -16,6 +16,8 @@ I'm **SHASHANK**! Welcome to my GitHub space, where curiosity meets code and mad
 - Python
 - Javascript
 - Machine Learning
+
+-->
   
 <!--  - Quantum Computing: Riding the wave of probability into the unknown. -->
 
@@ -30,16 +32,19 @@ I'm **SHASHANK**! Welcome to my GitHub space, where curiosity meets code and mad
 - [Project Name](Link to Project Repository or Website): In this project, I hacked the Matrix... okay, maybe not the Matrix, but a simulation of it!
 - [Project Name](Link to Project Repository or Website): Ever wondered what happens when you mix AI with a sprinkle of chaos theory? Check out this project and hold onto your socks!
 - [Project Name](Link to Project Repository or Website): This project started as a joke but ended up winning a Nobel Prize in Computer Science. True story!
--->
+
 
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshashank1&show_icons=true&theme=radical)
 
+
+
 ## Connect with Me
 
 - LinkedIn: [https://www.linkedin.com/in/gunda-shashank/]
 - Email: [shashankgundas1@gmail.com]
-<!-- - Website: [Your Personal Website or Blog URL] -->
+- Website: [Your Personal Website or Blog URL] 
 
 Ready to embark on an epic quest through the binary wilderness? Join me, and together, we shall conquer the digital frontier!
+-->
