@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hey, I'm Shashank Gunda 👋
+# Shashank Gunda
 
-### I build useful products, developer tools, and the systems behind them.
+### I build useful products, AI tools, and systems that solve real problems.
 
 Developer and product builder working across **AI, backend systems, data, and web products**.
-
-Currently building **[TESHQ](https://github.com/theshashank1/TESH-Query)** and **Treeex**.
 
 <p>
   <a href="https://github.com/theshashank1">GitHub</a> ·
@@ -20,49 +18,37 @@ Currently building **[TESHQ](https://github.com/theshashank1/TESH-Query)** and *
 
 ## Building now
 
-### [TESHQ](https://github.com/theshashank1/TESH-Query)
+### 🧠 [TESHQ](https://github.com/theshashank1/TESH-Query)
 
-An open-source AI-powered SQL compiler, Python CLI, and SDK that turns natural-language questions into executable SQL across relational databases.
+An open-source AI-powered SQL compiler that turns natural-language questions into executable SQL across relational databases.
 
-**Python · SQL · SQLAlchemy · AI/LLMs**
+`Python` · `SQL` · `SQLAlchemy` · `LLMs`
 
-### Treeex
+### 💬 Treeex
 
-A WhatsApp communication platform for businesses and educational institutions, bringing together campaigns, analytics, contacts, templates, shared inboxes, and integrations.
+A WhatsApp communication platform for businesses and educational institutions, built around campaigns, contacts, analytics, templates, shared inboxes, and integrations.
 
-**FastAPI · PostgreSQL · Redis · Azure**
-
----
-
-## My stack
-
-**Backend:** Python · FastAPI · SQLAlchemy  
-**Frontend:** React · Next.js · TypeScript  
-**Data & infrastructure:** PostgreSQL · Redis · SQL · Docker · Azure  
-**AI & tools:** LLMs · LangChain · Streamlit · GitHub Actions
-
-I choose tools based on the problem—not the trend.
+`FastAPI` · `PostgreSQL` · `Redis` · `Azure`
 
 ---
 
-## How I build
+## What I care about
+
+- AI interfaces that turn intent into useful actions
+- Developer tools that remove repetitive work
+- Backends that are simple to understand and operate
+- Products that solve specific problems well
 
 I like taking ideas from **problem → first version → real feedback → better product**.
-
-I care about software that is technically solid, easy to understand, and useful to the people using it. Sometimes that means designing a clean API. Sometimes it means debugging an LLM that confidently misunderstood the assignment.
 
 ---
 
 ## Explore my work
 
-- [Browse my repositories](https://github.com/theshashank1?tab=repositories)
-- [Connect on LinkedIn](https://www.linkedin.com/in/gunda-shashank/)
-- [Send me an email](mailto:shashankgundas1@gmail.com)
+[Repositories](https://github.com/theshashank1?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/gunda-shashank/) · [Email](mailto:shashankgundas1@gmail.com)
 
 <div align="center">
 
-### Build useful things. Keep learning. Ship again.
-
-<sub>Thanks for stopping by.</sub>
+### Build useful things. Ship with purpose.
 
 </div>
