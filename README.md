@@ -1,68 +1,80 @@
-# Hello, World!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=180&section=header&text=Hi%20there,%20I'm%20Shashank!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" />
+</div>
 
-I'm **SHASHANK**! Welcome to my GitHub space, where curiosity meets code and madness meets method! I'm a tech adventurer on a quest to explore the uncharted territories of the digital realm. Hold onto your bits because things are about to get wild!
+<div align="center">
+  <a href="https://github.com/theshashank1">
+    <img src="https://komarev.com/ghpvc/?username=theshashank1&style=flat-square&color=6A5ACD" alt="Profile views" />
+  </a>
+  <a href="https://github.com/theshashank1?tab=followers">
+    <img src="https://img.shields.io/github/followers/theshashank1?label=Followers&style=flat-square&color=00C2FF" alt="GitHub followers" />
+  </a>
+</div>
 
 ## About Me
 
-- 🔭 Currently exploring the multidimensional world of full-stack development, machine learning, and Generative AI.
-- 🌱 Cultivating a garden of code with seeds of Python, JavaScript, and a sprinkle of C for that extra kick.
-- 😄 Pronouns: Ctrl, Alt, Del.
-<!--  - ⚡ Fun fact: I once debugged a piece of code by reciting the entire script backwards under a full moon. It worked! 
+I'm **Shashank**, a developer interested in building practical software and exploring the possibilities of **full-stack development, machine learning, and Generative AI**.
 
-## Interests
+- 🔭 Currently exploring full-stack development, machine learning, and Generative AI
+- 🌱 Strengthening my skills in Python, JavaScript, C, and C++
+- 🧠 Interested in creating useful, reliable, and well-designed solutions
+- 🤝 Open to collaboration, open-source contributions, and interesting technical projects
+- 😄 Pronouns: Ctrl, Alt, Del
 
-- Web Development
-- Generative AI
-- Python
-- Javascript
-- Machine Learning
+## Tech Stack
 
--->
-  
-<!--  - Quantum Computing: Riding the wave of probability into the unknown. -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,html,css,git,github,linux,vscode" alt="Technology icons" />
+</div>
 
-## Skills
+## What I'm Working On
 
-- Programming Languages: Fluent in over six million forms of communication... well, maybe not that many, but close! Around 3 to 4, including Python, JavaScript, C, and C++!
-- Technologies & Tools: From the humble command line to the towering heights of the cloud, I'm armed and ready.
+- Building projects that combine software development with AI
+- Learning modern tools and best practices for scalable applications
+- Contributing to open-source projects and growing through collaboration
 
+## GitHub Statistics
 
-<!-- ## Projects
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=theshashank1&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Shashank's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshashank1&layout=compact&hide_border=true&theme=tokyonight" alt="Shashank's top languages" />
+</div>
 
-- [Project Name](Link to Project Repository or Website): In this project, I hacked the Matrix... okay, maybe not the Matrix, but a simulation of it!
-- [Project Name](Link to Project Repository or Website): Ever wondered what happens when you mix AI with a sprinkle of chaos theory? Check out this project and hold onto your socks!
-- [Project Name](Link to Project Repository or Website): This project started as a joke but ended up winning a Nobel Prize in Computer Science. True story!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=theshashank1&theme=tokyonight&hide_border=true" alt="Shashank's GitHub streak" />
+</div>
 
+## Connect With Me
 
-## GitHub Stats
+<div align="center">
+  <a href="https://www.linkedin.com/in/gunda-shashank/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:shashankgundas1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshashank1&show_icons=true&theme=radical)
+## GSSoC 2024 Badges
 
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" alt="Postman badge" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" alt="GSSoC badge 1" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" alt="GSSoC badge 2" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" alt="GSSoC badge 3" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" alt="GSSoC badge 4" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" alt="GSSoC badge 5" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90" alt="GSSoC badge 6" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="90" alt="GSSoC badge 7" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="90" alt="GSSoC badge 8" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90" alt="Code Luminary badge" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90" alt="Git Explorer badge" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90" alt="Pull Expert badge" />
+  </a>
+</div>
 
-
-## Connect with Me
-
-- LinkedIn: [https://www.linkedin.com/in/gunda-shashank/]
-- Email: [shashankgundas1@gmail.com]
-- Website: [Your Personal Website or Blog URL] 
-
-Ready to embark on an epic quest through the binary wilderness? Join me, and together, we shall conquer the digital frontier!
--->
-
---
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+<div align="center">
+  <br />
+  <i>Thanks for visiting my profile. Feel free to explore my repositories and connect with me!</i>
 </div>
