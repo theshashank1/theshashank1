@@ -11,7 +11,7 @@ I don't collect technologies. I pick whatever solves the problem, runs fast, and
 * **[TESHQ](https://github.com/theshashank1/TESH-Query)** — *Text to Executable SQL Handler.*  
   Open-source conversational database engine. Translates natural language into AST-validated, self-healing SQL across relational databases.
   
-* **Treeex** — *WhatsApp Infrastructure.*  
+* **[Treeex](https://treeex.in/)** — *WhatsApp Infrastructure.*  
   High-throughput business messaging pipelines, shared inboxes, and automated workflows.
 
 ---
